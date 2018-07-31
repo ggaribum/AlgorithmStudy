@@ -43,8 +43,7 @@ public class Thirty {
 			Arrays.sort(stLine);
 			Collections.reverse(Arrays.asList(stLine));
 			
-			
-			
+				
 		}
 		
 		
